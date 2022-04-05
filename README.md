@@ -1,4 +1,4 @@
-# Data Science Portfolio Project from Scratch: YouTube Data Dashboard of Ken Jee
-Dashboard Link: https://share.streamlit.io/playingnumbers/yt_dashboard_st/main/Ken_Dashboard.py
+# Data Science Portfolio Project from Scratch:   YouTube Data Dashboard of Ken Jee
+Dashboard Link : 
 
-The Data: https://www.kaggle.com/datasets/kenjee/ken-jee-youtube-data
+Data files: https://www.kaggle.com/datasets/kenjee/ken-jee-youtube-data
